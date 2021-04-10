@@ -1,0 +1,4 @@
+V. 1.0:
+
+   - Still need to fix the application so that it gracefully exits if garbage input files are entered in the command line environment.  Right now resolver threads
+     will spin forever if any input files are not valid/readable.
